@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend for Carschool",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royayush2099/Backend_Carschool.git"
+  },
+  "author": "Ayush Roy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royayush2099/Backend_Carschool/issues"
+  },
+  "homepage": "https://github.com/royayush2099/Backend_Carschool#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
